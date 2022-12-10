@@ -1,0 +1,6 @@
+E:\MyProjects\Stms.Ax.Reports\Учет СЛД\Pbi_10988_Сводный_технический_Акт_П-1\Stms.TechnicalActP1\Stms.TechnicalActP1\bin\Debug\Stms.TechnicalActP1.dacpac
+E:\MyProjects\Stms.Ax.Reports\Учет СЛД\Pbi_10988_Сводный_технический_Акт_П-1\Stms.TechnicalActP1\Stms.TechnicalActP1\obj\Debug\Stms.TechnicalActP1.sqlproj.AssemblyReference.cache
+E:\MyProjects\Stms.Ax.Reports\Учет СЛД\Pbi_10988_Сводный_технический_Акт_П-1\Stms.TechnicalActP1\Stms.TechnicalActP1\obj\Debug\Stms.TechnicalActP1.dll
+E:\MyProjects\Stms.Ax.Reports\Учет СЛД\Pbi_10988_Сводный_технический_Акт_П-1\Stms.TechnicalActP1\Stms.TechnicalActP1\obj\Debug\Stms.TechnicalActP1.pdb
+E:\MyProjects\Stms.Ax.Reports\Учет СЛД\Pbi_10988_Сводный_технический_Акт_П-1\Stms.TechnicalActP1\Stms.TechnicalActP1\bin\Debug\Stms.TechnicalActP1.dll
+E:\MyProjects\Stms.Ax.Reports\Учет СЛД\Pbi_10988_Сводный_технический_Акт_П-1\Stms.TechnicalActP1\Stms.TechnicalActP1\bin\Debug\Stms.TechnicalActP1.pdb
